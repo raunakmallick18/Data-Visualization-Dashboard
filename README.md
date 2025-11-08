@@ -155,7 +155,7 @@ npm start
 
 ---
 
-## 📷 Screenshot:
+## 📷 Screenshot
 
 ![GitHub Logo](https://github.com/raunakmallick18/Data-Visualization-Dashboard/blob/main/f786d9a8-1a9a-4327-bfce-82a28fabd49e.png)
 
@@ -165,4 +165,4 @@ npm start
 
 **👋 Raunak Mallick**  
 💼 MCA Graduate | Software Developer | Tech Enthusiast  
-🔗 [GitHub Profile](https://github.com/raunakmallick18)
+🔗 [Portfolio](https://raunak-mallick-temp0s6.gamma.site/)

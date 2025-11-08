@@ -155,6 +155,12 @@ npm start
 
 ---
 
+## 📷 Screenshot:
+
+![GitHub Logo](https://github.com/raunakmallick18/Data-Visualization-Dashboard/blob/main/f786d9a8-1a9a-4327-bfce-82a28fabd49e.png)
+
+---
+
 ## 👨‍💻 Author
 
 **👋 Raunak Mallick**  

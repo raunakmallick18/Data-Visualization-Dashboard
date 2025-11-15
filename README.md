@@ -158,6 +158,8 @@ npm start
 ## 📷 Screenshot
 
 ![GitHub Logo](https://github.com/raunakmallick18/Data-Visualization-Dashboard/blob/main/f786d9a8-1a9a-4327-bfce-82a28fabd49e.png)
+![GitHub Logo](https://github.com/raunakmallick18/Data-Visualization-Dashboard/blob/main/3fbae3d2-79c4-4835-8558-70f5519ecdc1.png)
+
 
 ---
 
